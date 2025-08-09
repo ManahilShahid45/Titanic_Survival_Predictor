@@ -74,14 +74,17 @@ The dataset used is the **Titanic dataset** from [Kaggle](https://www.kaggle.com
 ## 📌 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Titanic-Survival-Predictor.git
+   git clone https://github.com/yourusername/Titanic_Survival_Predictor.git
 
 2. Navigate into the project folder:
-pip install numpy pandas matplotlib seaborn scikit-learn
+   ```bash
+   cd Titanic-Survival-Predictor
 
-3. Install the required Python libraries:
-pip install numpy pandas matplotlib seaborn scikit-learn
+4. Install the required Python libraries:
+   ```bash
+   pip install numpy pandas matplotlib seaborn scikit-learn
 
-4. Open and run the Jupyter Notebook:
-jupyter notebook titanic_survival_classification.ipynb
+6. Open and run the Jupyter Notebook:
+   ```bash
+   jupyter notebook titanic_survival_classification.ipynb
 
